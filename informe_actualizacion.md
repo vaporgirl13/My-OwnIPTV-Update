@@ -1,17 +1,9 @@
 # Informe de actualizacion de listas
 
 - Canales revisados: 167
-- Sin cambios: 159
-- Enlaces actualizados: 3
+- Sin cambios: 162
+- Enlaces actualizados: 0
 - No estan hoy en iptv-org (se conserva el enlace anterior): 5
-
-## Enlaces actualizados
-
-| Lista | Canal | Antes | Ahora |
-|---|---|---|---|
-| My_Own_IPTV_P2.m3u8 | HBO Xtreme Latin America | bantel-cdn1.iptvperu.tv:1936 | 181.78.61.202:8000 |
-| My_Own_IPTV_P2.m3u8 | BBC Earth US (1080p) | amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv | amg00793-amg00793c6-vizio-us-2670.playouts.now.amagi.tv |
-| My_Own_IPTV_P2.m3u8 | ESPN | 168.228.44.241:9997 | lilac19.pontiscloud.com |
 
 ## No estan hoy en iptv-org
 
