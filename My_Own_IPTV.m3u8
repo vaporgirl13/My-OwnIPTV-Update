@@ -133,13 +133,13 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
 #EXTINF:-1 group-title="Música" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" tvg-id="Totalmusic.uk@HD",Totalmusic (1080p)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/3UByLqb.png" tvg-id="MTV.us@East" tvg-shift="-0.5",MTV Live (720p)
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/3UByLqb.png" tvg-id="MTVLive.us@SD" tvg-shift="-0.5",MTV Live (720p)
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/D7SwmuB.png" tvg-id="VevoLatino.us@SD",Vevo Latino (1080p)
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/z9MlLFL.png" tvg-id="MiMusicaHits.us@SD",Mi Musica Hits (720p)
 http://38.188.186.47:4000/play/a04n/index.m3u8
-#EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/NlKFNHS.png" tvg-id="HTV.us@SD",HTV
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/NlKFNHS.png" tvg-id="HTV.us@Argentina",HTV
 http://45.134.141.161:2200/ARG/HTV/index.m3u8
 #EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/RO9Dz3X.png" tvg-id="QuieroMusicaenmiIdioma.ar@SD",Quiero Musica
 http://158.172.155.130:8000/play/a00a/index.m3u8
