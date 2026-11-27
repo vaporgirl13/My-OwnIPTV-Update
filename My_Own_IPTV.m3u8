@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Películas" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" tvg-id="HBOPopLatinAmerica.us@SD",HBO Pop
 http://15.204.246.24:8080/HBOPOPHD/index.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://gia.tv/streams/pptv/208730.png" tvg-id="MaxcineComedy.us@HD",MaxCine Comedy
-https://183.giatvcdn.com/giatvplayout7/giatv-208730/tracks-v1a1/mono.ts.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-208730/playlist.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81785_dark_360w_270h.png" tvg-id="StarChannelLatinAmerica.us@Panregional",Star Channel
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" tvg-id="HBO2LatinAmerica.us@HD",HBO 2
@@ -11,14 +11,15 @@ http://45.171.64.30:6060/play/a00i/index.m3u8
 http://45.171.64.30:6060/play/a005/index.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://i.imgur.com/aQdhJie.png" tvg-id="MegaFiccion.cl@SD",Mega Ficcion (1080p)
 http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
-#EXTINF:-1 group-title="Películas" tvg-logo="https://raw.githubusercontent.com/vaporgirl13/My-OwnIPTV/refs/heads/main/600x600.webp" tvg-id="UniversalCrime.us@East",Universal Crime
-https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master_5.m3u8
+#EXTINF:-1 http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/vaporgirl13/My-OwnIPTV/refs/heads/main/600x600.webp" tvg-id="UniversalCrime.us@East",Universal Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://gia.tv/streams/pptv/209909.png" tvg-id="MaxcineKids.us@HD",MaxCine Kids
-https://183.giatvcdn.com/giatvplayout7/giatv-209909/tracks-v1a1/mono.ts.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-209909/playlist.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56092_dark_360w_270h.png" tvg-id="HBOFamilyLatinAmerica.us@SD",HBO Family
 http://45.171.64.30:6060/play/a00k/index.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://gia.tv/streams/pptv/208817.png" tvg-id="MaxcineFamily.us@HD",MaxCine Family
-https://183.giatvcdn.com/giatvplayout7/giatv-208817/tracks-v1a1/mono.ts.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-208817/playlist.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png" tvg-id="SonyChannelAndes.us@SD",Sony Channel
 http://15.204.246.24:8080/SonyHD/index.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" tvg-id="StudioUniversalLatinAmerica.us@South",Studio Universal
@@ -67,11 +68,11 @@ http://15.204.246.24:8080/WarnerChannelHD/index.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://i.imgur.com/2V0R0xT.png" tvg-id="CineLatino.mx@SD",CineLatino (720p)
 http://168.196.127.137:6001/play/a08o/index.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://i.imgur.com/bZWoDTg.png" tvg-id="CineSony.us@SD",Cine Sony
-https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+http://186.148.196.82:8001/play/a0a4
 #EXTINF:-1 group-title="Películas" tvg-logo="https://gia.tv/streams/pptv/208138.png" tvg-id="Maxcine.us@HD",MaxCine
-https://183.giatvcdn.com/giatvplayout7/giatv-208138/tracks-v1a1/mono.ts.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-208138/playlist.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://gia.tv/streams/pptv/209163.png" tvg-id="Maxcine2.us@HD",MaxCine 2
-https://183.giatvcdn.com/giatvplayout7/giatv-209163/tracks-v1a1/mono.ts.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-209163/playlist.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://i.imgur.com/H3PzGZW.png" tvg-id="MultiPremier.mx@SD",MultiPremier (1080p)
 http://168.196.127.137:6001/play/a08n/index.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" tvg-id="HBOXtremeLatinAmerica.us@SD",HBO Xtreme Latin America
@@ -91,9 +92,9 @@ https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://i.imgur.com/HctHhLL.png" tvg-id="BBCDrama.uk@Spain",BBC Series
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" tvg-id="SonyMovies.us@SD",Sony Movies
-https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
+http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://i.imgur.com/L1h6W5Q.png" tvg-id="AMCenEspanol.us@SD",AMC en Español
-https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
+https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Animación/Niños" tvg-logo="https://i.imgur.com/KT4tdQs.png" tvg-id="NickJrLatinAmerica.us@Panregional",Nick Jr.
 https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 #EXTINF:-1 group-title="Animación/Niños" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54930_dark_360w_270h.png" tvg-id="DisneyXD.us@East",Disney XD (United States) (720p)
@@ -175,13 +176,13 @@ http://190.93.224.42/LATINA/index.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/vtGED07.jpg" tvg-id="VenevisionInternacional.ve@SD",Venevision Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/KLGeznX.png" tvg-id="UniTV.ve@SD",UniTV
-https://vcp6.myplaytv.com/unitv/unitv/chunklist_w835012980.m3u8
+https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79968_dark_360w_270h.png" tvg-id="AztecaInternacional.mx@SD",Azteca Internacional
-https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+http://167.249.23.102:8000/play/a0a3/index.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46607_dark_360w_270h.png" tvg-id="AztecaUno.mx@SD",Azteca Uno
-https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_9.m3u8
+http://38.44.109.41:8003/play/a033/index.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/vaporgirl13/My-OwnIPTV/refs/heads/main/channels4_profile.jpg" tvg-id="IslaTV.ve@SD",IslaTV
-https://59d39900ebfb8.streamlock.net/islatv/islatv/chunklist_w38387550.m3u8
+https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/0bqJksL.png" tvg-id="VepacoTV.ve@SD",Vepaco TV (480p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/cgIv5QK.png" tvg-id="Trece.py@SD",Trece (Paraguay)
@@ -228,7 +229,7 @@ https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
 #EXTINF:-1 group-title="Cocina" tvg-logo="https://i.imgur.com/YhFFxlE.png" tvg-id="bonappetit.us@SD",bon appetit (1080p)
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cocina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" tvg-id="ElGourmet.ar@South",El Gourmet HD
-https://iptv.bitred.cl/ELGOURMET_HD/tracks-v1a1/mono.ts.m3u8
+http://15.204.246.24:8080/ElGourmetHD/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/8MRNFb9.png" tvg-id="DW.de@Espanol",DW Espanol (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30259_dark_360w_270h.png" tvg-id="ELatinAmerica.us@Colombia",E!
@@ -270,7 +271,7 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/Zfe2f5j.png" tvg-id="13C.cl@SD",13Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/OMQq19N.png" tvg-id="RuntimeEspanol.us@SD",Runtime en Español
-https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh_720.m3u8
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 #EXTINF:-1 group-title="Documental" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" tvg-id="DiscoveryScienceLatinAmerica.us@SD",Discovery Science Latin America (720p)
 http://45.171.64.30:6060/play/a007/index.m3u8
 #EXTINF:-1 group-title="Documental" tvg-logo="https://i.imgur.com/AqR0Jkn.png" tvg-id="DiscoveryTheaterLatinAmerica.us@SD",Discovery Theater Latin America (1080p)
@@ -281,7 +282,7 @@ https://bantel-cdn1.iptvperu.tv:1936/ZyphraCast/love-nature/chunks.m3u8
 #EXTINF:-1 group-title="Documental" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" tvg-id="AnimalPlanetLatinAmerica.us@HD" tvg-shift="-1",Animal Planet
 http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
 #EXTINF:-1 group-title="Documental" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png" tvg-id="InvestigationDiscoveryLatinAmerica.us@South",Investigation Discovery
-http://38.65.175.84:8000/play/a0ch/index.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
 #EXTINF:-1 group-title="Documental" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" tvg-id="HistoryLatinAmerica.us@South",History
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
 #EXTINF:-1 group-title="Documental" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" tvg-id="HistoryLatinAmerica.us@South",History Sur
@@ -299,9 +300,9 @@ http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
 #EXTINF:-1 group-title="Novelas" tvg-logo="https://i.imgur.com/j2O4ndp.png" tvg-id="TelemundoInternacional.us@South",Telemundo Internacional (1080p)
 http://45.173.231.22:8000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="Novelas" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" tvg-id="LasEstrellasLatinAmerica.mx@SD",Las Estrellas Latinoamérica
-https://streaming.onnethn.com/LAS_ESTRELLAS_HD/tracks-v1a1/mono.ts.m3u8
+http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
 #EXTINF:-1 group-title="Novelas" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s39719_dark_360w_270h.png" tvg-id="CaracolInternacional.co@SD",Caracol Internacional
-https://streaming.onnethn.com/CARACOL_INTERNACIONAL/tracks-v1a1/mono.ts.m3u8
+http://45.5.117.57:8200/play/a0e9/index.m3u8
 #EXTINF:-1 group-title="Novelas" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" tvg-id="TlnovelasMexico.mx@SD",Tlnovelas
 http://167.249.23.102:8000/play/a0g8/index.m3u8
 #EXTINF:-1 group-title="Novelas" tvg-logo="https://i.imgur.com/NuYwGok.png" tvg-id="TodoNovelas.es@SD",Todo Novelas (1080p)
@@ -317,7 +318,7 @@ https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
 #EXTINF:-1 group-title="Comedia" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55980_dark_360w_270h.png" tvg-id="DistritoComedia.mx@SD",Distrito Comedia (1080p)
 http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
 #EXTINF:-1 group-title="Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-id="ComedyCentralLatinAmerica.us@Panregional",Comedy Central
-https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
+http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" tvg-id="FoxSports.ar@SD",Fox Sports (1080p)
 http://138.59.227.20:8000/play/a085/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" tvg-id="ESPNPremium.ar@HD",ESPN Premium HD (1080p)
@@ -331,7 +332,7 @@ https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-id="ESPNLatinAmerica.us@South",ESPN Latin America (1080p)
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" tvg-id="TyCSports.ar@SD",TyC Sports
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/cb4d3e4f7b706f88cf9b3f6c83a240a2d1036780513ade346e880bea2a8b4605d9edeec6f34bff7020c6419b29017d2003338946872811c6de71b82a2d6c6634dac4e71c8ccb6950f6c70a292dad791841e6756db4582f3e99e51303807d927c0618e7402e753a9fb204f86953c087148b612995adcd1c662f0303ca4d3eb4f60fe1a6fe5846df72a2b70e5c937b17ee834b9dd301ee83d20983428720f009cf9af589ce41d7d59664fa54e430590d724fa6ea01fb48f62bb8e00b0caf334573105cf2a697be7d288753464f8a87a1dd4bde63030db8e31a5a950f8a5b8c70ab66af1baee24fdacdf1bf100451a0b5d8a4dc04a520a8db4cab8ee53e59fde5d336f6d7197d55c06ed96d083099feca138bf9f7f7dc2ca8bb731434cc900aced3e2c3a79c8444893d9187d5963950416a0042d70df9da469269fc68b8c21616594f6fa48e1a91d58e1063340fceab76e03e37f59b878ad40b7bed651851e72999780d7ec3396933b478aed46c22d9685ac51832f951398502cfb92af4b5d2aa5368e29094148d0285d22bdcf210a664382b60e2a2563f4f2e24840e0789ceee74235c05397fc1ed9c9f2dfc1339b72525d5/94/1920x1080_8796395/index.m3u8
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" tvg-id="ESPN4LatinAmerica.us@South",ESPN 4 Latin America (1080p)
 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png" tvg-id="ESPN5LatinAmerica.us@South",ESPN 5 Latin America (1080p)
